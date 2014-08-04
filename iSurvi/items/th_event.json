@@ -1,0 +1,26 @@
+[
+     {
+     "eventID": 1,
+     "eventName": "เดินป่าและตั้งแคมป์",
+     "eventIcon": "iconevent1.png",
+     "eventDis": "สิ่งที่ควรทราบเมื่อจะตั้งแคมป์หรือเดินป่า"
+     },
+     {
+     "eventID": 2,
+     "eventName": "น้ำท่วม",
+     "eventIcon": "iconevent2.png",
+     "eventDis": "สิ่งที่ควรทราบเมื่อเกิดเหตุน้ำท่วม"
+     },
+     {
+     "eventID": 3,
+     "eventName": "พายุ",
+     "eventIcon": "iconevent3.png",
+     "eventDis": "สิ่งที่ควรทราบเมื่อเกิดเหตุลมพายุรวมถึงพายุหิมะ"
+     },
+     {
+     "eventID": 4,
+     "eventName": "แผ่นดินไหวและภูเขาไฟระเบิด",
+     "eventIcon": "iconevent4.png",
+     "eventDis": "สิ่งที่ควรทราบเมื่อเกิดเหตุแผ่นดินไหวหรือเกิดภูเขาไฟระเบิด"
+     }
+]

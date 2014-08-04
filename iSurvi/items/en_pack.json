@@ -1,0 +1,20 @@
+[
+     {
+     "typeID": 1,
+     "typeName": "Small Bag",
+     "typeIcon": "iconpack1.png",
+     "typeDis": "May use the belt bag. Portable, easy to carry small items."
+     },
+     {
+     "typeID": 2,
+     "typeName": "Backpack",
+     "typeIcon": "iconpack2.png",
+     "typeDis": "Use the backpack for easy travel, camping emergency incidents."
+     },
+     {
+     "typeID": 3,
+     "typeName": "Car",
+     "typeIcon": "iconpack3.png",
+     "typeDis": "Some items can carry on the car for camping or when Incident a disaster."
+     }
+]

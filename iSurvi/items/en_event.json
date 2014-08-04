@@ -1,0 +1,26 @@
+[
+     {
+     "eventID": 1,
+     "eventName": "Trekking & Camping",
+     "eventIcon": "iconevent1.png",
+     "eventDis": "What should know when Trekking & Camping."
+     },
+     {
+     "eventID": 2,
+     "eventName": "Flood",
+     "eventIcon": "iconevent2.png",
+     "eventDis": "What should know when Flood event"
+     },
+     {
+     "eventID": 3,
+     "eventName": "Storms",
+     "eventIcon": "iconevent3.png",
+     "eventDis": "What should know when Storms and blizzards event."
+     },
+     {
+     "eventID": 4,
+     "eventName": "Earthquake & Volcanic Eruption",
+     "eventIcon": "iconevent4.png",
+     "eventDis": "What should know when Earthquake and Volcanic eruption."
+     }
+]

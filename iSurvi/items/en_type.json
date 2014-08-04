@@ -1,0 +1,26 @@
+[
+     {
+     "typeID": 1,
+     "typeName": "Appliance",
+     "typeIcon": "icontype1.png",
+     "typeDis": "Essential items for trekking and camping."
+     },
+     {
+     "typeID": 2,
+     "typeName": "First Aid Supplies & medicine",
+     "typeIcon": "icontype2.png",
+     "typeDis": "Medicine and first aid kit for Emergency event in home and portable"
+     },
+     {
+     "typeID": 3,
+     "typeName": "Communication Devices",
+     "typeIcon": "icontype3.png",
+     "typeDis": "Device in the present. Is small and easy to carry."
+     },
+     {
+     "typeID": 4,
+     "typeName": "Food",
+     "typeIcon": "icontype4.png",
+     "typeDis": "Food can be stored for a long time. In the event of food shortages. And suitable to carry."
+     }
+]
