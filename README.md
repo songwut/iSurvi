@@ -1,5 +1,15 @@
 iSurvi
 ======
+- universal App(iPhone/iPad)
+- iOS 7.0 Up
 
-iSurvi is  "app item for deserter" iOS universal App(iPhone/iPad) implement on Core Data ,social framework.
-implement for iOS 7.0 up.
+implement on
+- Custom UI
+- Json
+- Core Data 
+- social framework
+
+iSurvi is  "app prepare Items for camping or trekking. Include importance when emergencies and natural disasters Event." 
+
+
+
