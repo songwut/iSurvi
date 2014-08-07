@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="14A261i" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="c7g-59-hez">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="14A314h" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="c7g-59-hez">
     <dependencies>
         <deployment defaultVersion="1792" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
@@ -630,18 +630,19 @@
                                 </prototypes>
                             </tableView>
                             <searchBar contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="sx7-0X-2Nx">
-                                <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
+                                <rect key="frame" x="0.0" y="64" width="768" height="44"/>
                                 <textInputTraits key="textInputTraits"/>
                             </searchBar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="leading" secondItem="FoN-Qf-2bH" secondAttribute="leading" id="BGr-mQ-s4J"/>
-                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="top" secondItem="FoN-Qf-2bH" secondAttribute="top" id="XVW-2m-tFh"/>
+                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="top" secondItem="FoN-Qf-2bH" secondAttribute="top" constant="64" id="IVW-UE-zpb"/>
+                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="top" secondItem="eND-uM-RTP" secondAttribute="bottom" id="SwZ-8v-vEe"/>
+                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="trailing" secondItem="E5R-KX-fpE" secondAttribute="trailing" id="UaH-BE-3eM"/>
                             <constraint firstItem="E5R-KX-fpE" firstAttribute="leading" secondItem="FoN-Qf-2bH" secondAttribute="leading" id="aVd-zp-y3o"/>
-                            <constraint firstItem="E5R-KX-fpE" firstAttribute="top" secondItem="sx7-0X-2Nx" secondAttribute="bottom" id="aYI-dS-rkU"/>
                             <constraint firstItem="E5R-KX-fpE" firstAttribute="bottom" secondItem="FoN-Qf-2bH" secondAttribute="bottom" id="hLy-rS-7BI"/>
-                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="trailing" secondItem="FoN-Qf-2bH" secondAttribute="trailing" id="mD9-s8-kg8"/>
+                            <constraint firstItem="sx7-0X-2Nx" firstAttribute="leading" secondItem="E5R-KX-fpE" secondAttribute="leading" id="iUf-ao-yI6"/>
+                            <constraint firstItem="E5R-KX-fpE" firstAttribute="top" secondItem="FoN-Qf-2bH" secondAttribute="top" constant="44" id="ogW-vS-jfc"/>
                             <constraint firstItem="E5R-KX-fpE" firstAttribute="trailing" secondItem="FoN-Qf-2bH" secondAttribute="trailing" id="vX0-ka-HVx"/>
                         </constraints>
                     </view>
@@ -825,6 +826,6 @@
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="cKb-rf-1v5"/>
+        <segue reference="bTu-FB-rXc"/>
     </inferredMetricsTieBreakers>
 </document>
