@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBC7AB98-7A60-43F0-83A7-42978BDA3BA2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iSurvi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDC37192-67AA-4DBE-86A4-D8570C4C06AA</key>
+		<string>https://github.com/songwut/iSurvi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iSurvi.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDC37192-67AA-4DBE-86A4-D8570C4C06AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/songwut/iSurvi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDC37192-67AA-4DBE-86A4-D8570C4C06AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDC37192-67AA-4DBE-86A4-D8570C4C06AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iSurvi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
