@@ -11,7 +11,8 @@ implement on
 
 iSurvi is  "app prepare Items for camping or trekking. Include importance when emergencies and natural disasters Event." 
 
-
+<img src="https://raw.githubusercontent.com/songwut/iSurvi/master/iphone.png" width=320><br>
+<img src="https://raw.githubusercontent.com/songwut/iSurvi/master/ipad.png" width=640><br>
 
 ## MIT License
 
